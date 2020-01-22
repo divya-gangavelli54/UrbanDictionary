@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Urban Dictionary</string>
+
+    <string name="ALERT_BUTTON_CLOSE">Close</string>
+    <string name="NO_DATA">No data found!</string>
+    <string name="CONNECTION_ERROR">The internet connection appears to be offline.</string>
+    <string name="SERVER_ERROR">We are having trouble connecting to server. Please try again later.</string>
+
+    <string name="BTN_SEARCH">Search</string>
+    <string name="TV_AUTHOR">by %1$s</string>
+
+</resources>
